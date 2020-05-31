@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mini Challenge 01</string>
+    <string-array name="laptops">
+        <item>HP</item>
+        <item>Lenovo</item>
+    </string-array>
+
+</resources>
