@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mini Challenge 02</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirm_message">This purchase will cost you $</string>
+    <string name="confirm_proceed">. Proceed?</string>
+    <string name="low_funds">Insufficient funds.</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="apple_cost">Apple($2.49/lbs)</string>
+    <string name="orange_cost">Orange($4.99/lbs)</string>
+    <string name="order_button">Order</string>
+    <string name="purchase_button">Purchase</string>
+    <string name="wallet">Wallet:$</string>
+    <string name="order_total">Order total:</string>
+    <string name="balance_remaining">Balance remaining:</string>
+
+</resources>
