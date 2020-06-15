@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MiniChallenge05</string>
+<!--TODO: in HW4 you can use this array to add the options to the spinners. See https://developer.android.com/guide/topics/ui/controls/spinner-->
+    <string-array name="songs">
+        <item>Go Tech Go</item>
+        <item>Mario Theme</item>
+        <item>Pacman Theme</item>
+        <item>Tetris Theme</item>
+    </string-array>
+    <string-array name="effects">
+        <item>Clapping</item>
+        <item>Cheering</item>
+        <item>Lets Go Hokies</item>
+    </string-array>
+</resources>
